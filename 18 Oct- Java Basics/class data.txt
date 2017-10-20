@@ -1,0 +1,53 @@
+--> identifier --> class name, method name, variable name, constant name, etc.
+
+Rules:
+--> no keyword can be used for identifier
+--> cannot start with a number
+--> can include numbers after character
+--> underscore and $ can be used
+--> can be of any length
+
+--> constants--> fixed value
+	--> keyword
+
+	final 
+
+--> keywords--> pre-defined meaning or special meaning
+
+--> variables--> has a particular type and data/range
+
+
+
+	
+
+class int{
+
+	final int value = 998.7535320;
+
+	int value1 = 90;
+
+	value1 = value1 + value;
+
+}
+
+
+
+
+	byte --> 1 byte --> 8 bits --> 2 power 8 
+	7 bits --> range --> 1 bit --> sign
+	byte value = 120; 
+
+
+	int first = 10;
+	int second = 20;
+	int third = first;
+
+
+	//int , float, long
+	// Predefined classes
+	// Integer , Float, Long, Double, String
+
+	
+
+	int value = 40;	//primitive type
+	Integer value = 40; //reference
