@@ -1,0 +1,15 @@
+********************************************************************
+Result Sheet
+
+Name of Student: 			Rollno:
+
+Subject		Marks
+Hindi		 65
+English		 76
+Maths		 98
+Total		-----
+Percentage        --
+
+Grade		  --
+
+********************************************************************
